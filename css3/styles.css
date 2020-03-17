@@ -1,5 +1,5 @@
 h1 {
-  color: #54180B;
+  color: #FF5733;
 }
 
 h2{
@@ -8,4 +8,8 @@ h2{
 
 li {
   color: rgb(34, 94, 224); 
+}
+
+p {
+  color: red;
 }
